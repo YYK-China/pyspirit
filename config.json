@@ -1,0 +1,6 @@
+{
+  "file_path": "./a.txt",
+  "max_file_len": 4096,
+  "scan_gap": 0.1,
+  "defend_screen_lock": "True"
+}
